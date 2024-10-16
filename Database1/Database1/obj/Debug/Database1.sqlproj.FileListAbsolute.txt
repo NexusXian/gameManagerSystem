@@ -1,0 +1,10 @@
+F:\C#\gameMannager\Database1\Database1\bin\Debug\Database1.dacpac
+F:\C#\gameMannager\Database1\Database1\bin\Debug\Database1.dll
+F:\C#\gameMannager\Database1\Database1\bin\Debug\Database1.pdb
+F:\C#\gameMannager\Database1\Database1\obj\Debug\Database1.sqlproj.AssemblyReference.cache
+F:\C#\gameMannager\Database1\Database1\obj\Debug\Model.xml
+F:\C#\gameMannager\Database1\Database1\obj\Debug\refactor.xml
+F:\C#\gameMannager\Database1\Database1\obj\Debug\postdeploy.sql
+F:\C#\gameMannager\Database1\Database1\obj\Debug\predeploy.sql
+F:\C#\gameMannager\Database1\Database1\obj\Debug\Database1.dll
+F:\C#\gameMannager\Database1\Database1\obj\Debug\Database1.pdb

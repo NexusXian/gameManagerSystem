@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\gameMannager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|f:\\c#\\gamemannager\\gamemannager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|f:\\c#\\gamemannager\\gamemannager\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|f:\\c#\\gamemannager\\gamemannager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|f:\\c#\\gamemannager\\gamemannager\\admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|F:\\C#\\gameMannager\\gamemannager\\user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|F:\\C#\\gameMannager\\gamemannager\\user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|F:\\C#\\gameMannager\\gamemannager\\admin22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\admin22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|f:\\c#\\gamemannager\\gamemannager\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|F:\\C#\\gameMannager\\gamemannager\\admin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\admin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|f:\\c#\\gamemannager\\gamemannager\\admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|F:\\C#\\gameMannager\\gamemannager\\user3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\user3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|f:\\c#\\gamemannager\\gamemannager\\admin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\admin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|f:\\c#\\gamemannager\\gamemannager\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|f:\\c#\\gamemannager\\gamemannager\\signin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\signin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|f:\\c#\\gamemannager\\gamemannager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|F:\\C#\\gameMannager\\gamemannager\\admin21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\admin21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|f:\\c#\\gamemannager\\gamemannager\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18507115-6F2F-4CC7-B657-B55D41F5E153}|gameMannager\\gameMannager.csproj|solutionrelative:gamemannager\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dao.cs",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\Dao.cs",
+              "RelativeDocumentMoniker": "gameMannager\\Dao.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\Dao.cs",
+              "RelativeToolTip": "gameMannager\\Dao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:04:23.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "admin1.cs",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\admin1.cs",
+              "RelativeDocumentMoniker": "gameMannager\\admin1.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\admin1.cs",
+              "RelativeToolTip": "gameMannager\\admin1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:30:00.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "admin22.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\admin22.cs",
+              "RelativeDocumentMoniker": "gameMannager\\admin22.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\admin22.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "gameMannager\\admin22.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:17:38.877Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "user2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\user2.cs",
+              "RelativeDocumentMoniker": "gameMannager\\user2.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\user2.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "gameMannager\\user2.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:09:13.358Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\user1.cs",
+              "RelativeDocumentMoniker": "gameMannager\\user1.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\user1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "gameMannager\\user1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:07:31.367Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "admin2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\admin2.cs",
+              "RelativeDocumentMoniker": "gameMannager\\admin2.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\admin2.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "gameMannager\\admin2.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:05:35.497Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\admin1.cs",
+              "RelativeDocumentMoniker": "gameMannager\\admin1.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\admin1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "gameMannager\\admin1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:08:47.157Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "user3.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\user3.cs",
+              "RelativeDocumentMoniker": "gameMannager\\user3.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\user3.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "gameMannager\\user3.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:09:16.127Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\Form1.cs",
+              "RelativeDocumentMoniker": "gameMannager\\Form1.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\Form1.cs",
+              "RelativeToolTip": "gameMannager\\Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:15:55.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\Form1.cs",
+              "RelativeDocumentMoniker": "gameMannager\\Form1.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "gameMannager\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:15:48.816Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "admin2.cs",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\admin2.cs",
+              "RelativeDocumentMoniker": "gameMannager\\admin2.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\admin2.cs",
+              "RelativeToolTip": "gameMannager\\admin2.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:21:19.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "signin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\signin.cs",
+              "RelativeDocumentMoniker": "gameMannager\\signin.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\signin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "gameMannager\\signin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:23:50.269Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "signin.cs",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\signin.cs",
+              "RelativeDocumentMoniker": "gameMannager\\signin.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\signin.cs",
+              "RelativeToolTip": "gameMannager\\signin.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA2wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:18:28.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "signin.Designer.cs",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\signin.Designer.cs",
+              "RelativeDocumentMoniker": "gameMannager\\signin.Designer.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\signin.Designer.cs",
+              "RelativeToolTip": "gameMannager\\signin.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwIMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:19:58.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "admin21.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\admin21.cs",
+              "RelativeDocumentMoniker": "gameMannager\\admin21.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\admin21.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "gameMannager\\admin21.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:29:46.951Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "gameMannager\\Form1.Designer.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\Form1.Designer.cs",
+              "RelativeToolTip": "gameMannager\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:34:17.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Data.cs",
+              "DocumentMoniker": "F:\\C#\\gameMannager\\gameMannager\\Data.cs",
+              "RelativeDocumentMoniker": "gameMannager\\Data.cs",
+              "ToolTip": "F:\\C#\\gameMannager\\gameMannager\\Data.cs",
+              "RelativeToolTip": "gameMannager\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:04:42.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
