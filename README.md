@@ -5,7 +5,7 @@
 -  sqlServer 2022
 使用时请将Dao.cs当中的
 ```C#
-**string str = "data source=nexus-win;Initial Catalog = GameDB;Integrated Security = True";**//数据库连接字符串
+string str = "data source=nexus-win;Initial Catalog = GameDB;Integrated Security = True";//数据库连接字符串
 ```
 修改为自己的数据库。<br>
 由于老师强制要求用C#完成，专门去学了C#。
