@@ -11,7 +11,8 @@
 
 -  Visual Studio 2022
 -  sqlServer 2022
-   使用时请将Dao.cs当中的
+  
+  使用时请将Dao.cs当中的
 
 ```C#
 string str = "data source=nexus-win;Initial Catalog = GameDB;Integrated Security = True";//数据库连接字符串
