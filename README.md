@@ -22,5 +22,5 @@ string str = "data source=nexus-win;Initial Catalog = GameDB;Integrated Security
 
 希望本人的作业能够帮到同样需要的同学们。
 
-Peace & love
+Love & Peace
 
